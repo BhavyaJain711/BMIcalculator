@@ -1,0 +1,11 @@
+#container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
+
+#container input{
+    display:flex;
+    margin: 0 auto;
+    
+}
